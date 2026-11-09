@@ -9,7 +9,6 @@ Broadcast: `192.168.25.255`
 
 | Dispositivo | Interfaz | IP/prefijo | Gateway | DNS | Método |
 |---|---|---|---|---|---|
-| OPNsense | WAN | PENDIENTE profesor | PENDIENTE | PENDIENTE | Según profesor |
 | OPNsense | LAN | `192.168.25.1/24` | — | PENDIENTE | Estática |
 | Proxmox | Gestión | `192.168.25.10/24` | `.1` | `.1`/PENDIENTE | Estática |
 | TrueNAS | Gestión | `192.168.25.20/24` | `.1` | `.1`/PENDIENTE | Estática |
