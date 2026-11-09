@@ -1,11 +1,5 @@
 # 01 — Requisitos y necesidades
 
-## Contexto de la empresa
-- Actividad de la empresa: PENDIENTE.
-- Departamentos: Dirección, Administración, Comercial, Producción e Informática.
-- Número de usuarios: PENDIENTE (no inventar).
-- Volumen de datos: PENDIENTE.
-- Servicios críticos: PENDIENTE.
 
 ## Necesidades técnicas
 | Necesidad | Requisito | Prioridad | Cómo se comprobará |
