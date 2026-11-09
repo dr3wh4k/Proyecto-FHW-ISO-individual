@@ -1,7 +1,11 @@
-# Infraestructura de sistemas de una empresa — Proyecto ISO + FHW
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/b0b3a510-5c95-4b63-9d55-5df0cfd3373e" /># Infraestructura de sistemas de una empresa — Proyecto ISO + FHW
 
 > **Estado:** diseño y documentación inicial. Los valores marcados como `PENDIENTE` deben sustituirse por los datos reales obtenidos durante el montaje y las pruebas.  
 > **Red LAN del proyecto:** `192.168.25.0/24`.
+
+<img width="800" height="533" alt="jwO2E8kNgMRT4kkxRmO_8AeSiyo3w89wbeSxE6ySioF3XMnjO3nWBPpLPsZmr4weAhedAMZ3cpJ_I42vjLAjbr-Aj4pX4sCQiqq3WCDQW6AsMinDXmdZjeP2fkUYNo85fSVtcXijztc-lcRJqXn1txE9PAgfQ9yiTm3orw9pV37E5zAjOsQDCwE_laf3I7V7" src="https://github.com/user-attachments/assets/02d4e146-7f13-4170-bfc4-28123558b397" />
+
+
 
 ## 1. Objetivo
 
