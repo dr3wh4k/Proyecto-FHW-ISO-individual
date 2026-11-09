@@ -38,7 +38,4 @@
 - Backup de configuración:
 - Evidencias:
 
-## Incidencias de instalación
-| Fecha | Sistema | Síntoma | Hipótesis | Comprobación | Solución | Resultado |
-|---|---|---|---|---|---|---|
-| PENDIENTE | | | | | | |
+
