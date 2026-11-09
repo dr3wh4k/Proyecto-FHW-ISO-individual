@@ -1,4 +1,4 @@
-<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/b0b3a510-5c95-4b63-9d55-5df0cfd3373e" /># Infraestructura de sistemas de una empresa — Proyecto ISO + FHW
+# Infraestructura de sistemas de una empresa — Proyecto ISO + FHW
 
 > **Estado:** diseño y documentación inicial. Los valores marcados como `PENDIENTE` deben sustituirse por los datos reales obtenidos durante el montaje y las pruebas.  
 > **Red LAN del proyecto:** `192.168.25.0/24`.
