@@ -102,12 +102,3 @@ La infraestructura incorpora tres servidores de comunicaciones con responsabilid
 
 La combinación de estas tecnologías permite implementar una infraestructura de red segmentada, administrable y con diferentes capas de seguridad.
 
-## 7. Evidencias
-
-En este apartado se incorporarán capturas de pantalla que permitan comprobar la configuración y el funcionamiento de cada servidor.
-
-- [ ] Captura de la configuración de MikroTik.
-- [ ] Captura de las interfaces de OPNsense.
-- [ ] Captura de las reglas del firewall de OPNsense.
-- [ ] Captura de las reglas de nftables en Debian.
-- [ ] Pruebas de conectividad entre los equipos.
