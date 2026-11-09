@@ -26,13 +26,6 @@ Se incluyen los requisitos de hardware, las versiones utilizadas, la configuraci
 - **Virtualización anidada:** activada si Proxmox se ejecuta dentro de VirtualBox.
 - **Adaptadores de red:**
 
-### Configuración de instalación
-
-- **Disco de instalación:**
-- **Sistema de archivos:** 
-- **Hostname:**
-- **Contraseña de administración:**
-- **Correo electrónico de administración:**
 
 ### Configuración de red
 
@@ -40,17 +33,10 @@ Se incluyen los requisitos de hardware, las versiones utilizadas, la configuraci
 |---|---|
 | Dirección IP | `192.168.25.10/24` |
 | Gateway | `192.168.25.1` |
-| DNS | |
-| Interfaz de red | |
-| Hostname | |
-
 ### Almacenamiento
 
 - **Almacenamiento local:** `local`.
 - **Almacenamiento de discos virtuales:** `local-lvm` o el almacenamiento configurado durante la instalación.
-- **Discos detectados:**
-- **Capacidad total:**
-- **Espacio disponible:**
 
 ### Configuración posterior a la instalación
 
@@ -72,14 +58,6 @@ Se incluyen los requisitos de hardware, las versiones utilizadas, la configuraci
 - [ ] Creación y arranque de una máquina virtual.
 - [ ] Comprobación de las actualizaciones.
 
-### Evidencias
-
-- [ ] Pantalla de instalación de Proxmox.
-- [ ] Información de la versión instalada.
-- [ ] Configuración de red.
-- [ ] Panel web de administración.
-- [ ] Almacenamiento disponible.
-- [ ] Máquinas virtuales creadas.
 
 ---
 
@@ -101,14 +79,6 @@ Se incluyen los requisitos de hardware, las versiones utilizadas, la configuraci
 - **Adaptadores de red necesarios:** mínimo dos interfaces, WAN y LAN.
 - **Hipervisor:** Proxmox / VirtualBox / instalación física.
 
-### Configuración de instalación
-
-- **Método de instalación:**
-- **Teclado y distribución:**
-- **Disco de instalación:**
-- **Sistema de archivos:**
-- **Usuario de administración:**
-- **Contraseña de administración:**
 
 ### Configuración de interfaces
 
@@ -124,7 +94,6 @@ Se incluyen los requisitos de hardware, las versiones utilizadas, la configuraci
 ### Configuración de servicios
 
 - **DHCP:** activado / desactivado.
-- **Rango DHCP:**
 - **DNS:** configuración de resolución de nombres.
 - **NAT:** configuración de traducción de direcciones de red.
 - **Firewall:** reglas de entrada, salida y comunicación entre redes.
@@ -169,16 +138,6 @@ Se configurarán reglas para permitir únicamente las comunicaciones necesarias 
 - [ ] DHCP funcionando, si está activado.
 - [ ] Copia de seguridad de la configuración realizada.
 
-### Evidencias
-
-- [ ] Pantalla de instalación.
-- [ ] Asignación de interfaces WAN y LAN.
-- [ ] Configuración IP.
-- [ ] Panel web de OPNsense.
-- [ ] Reglas de firewall.
-- [ ] Configuración NAT.
-- [ ] Pruebas de conectividad.
-- [ ] Copia de seguridad.
 
 ---
 
@@ -407,13 +366,6 @@ Una vez instalados los sistemas, se comprobará que todos los equipos pueden com
 - [ ] Los sistemas están actualizados.
 - [ ] Se han realizado copias de seguridad de las configuraciones.
 
-### Registro de incidencias
-
-| Fecha | Sistema | Incidencia | Solución aplicada |
-|---|---|---|---|
-| | | | |
-| | | | |
-| | | | |
 
 ### Conclusión
 
