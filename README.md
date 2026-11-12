@@ -31,12 +31,12 @@ La red principal del laboratorio utiliza el segmento `192.168.25.0/24`.
 | OPNsense | em1 (LAN) | Pendiente de confirmar |
 | Debian | enp0s3 | DHCP |
 | TrueNAS | Gestión | DHCP |
-| TrueNAS | Gestión futura | `192.168.25.200` (propuesta) |
+| TrueNAS | Gestión futura | `192.168.25.248` |
 | Proxmox Nodo 1 | Gestión | Pendiente |
 | Proxmox Nodo 2 | Gestión | Pendiente |
 | Proxmox Nodo 3 | Gestión | Pendiente |
 | Windows Server | Red LAN | Pendiente |
-| Cliente Windows | Red LAN | Pendiente |
+| Cliente Windows | Red LAN | DHCP |
 
 Las direcciones de los nodos Proxmox y de los equipos Windows se definirán posteriormente.
 
