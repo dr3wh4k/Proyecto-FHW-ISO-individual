@@ -117,12 +117,12 @@ Se registrarán los posibles errores detectados y el consumo de memoria durante 
 
 **Objetivo:** comprobar el estado de los discos y analizar su rendimiento.
 
-| Equipo | Herramienta | Resultado |
-|---|---|---|
-| Casa | CrystalDiskInfo / herramienta SMART | Pendiente |
-| Casa | CrystalDiskMark | Pendiente |
-| Disco SanDisk 1 TB | CrystalDiskInfo y CrystalDiskMark, si son compatibles | Pendiente |
-| Clase | CrystalDiskInfo / herramienta SMART | Pendiente |
+| Equipo | Herramienta | 
+|---|---|
+| Casa | CrystalDiskInfo / herramienta SMART | 
+| Casa | CrystalDiskMark | 
+| Disco SanDisk 1 TB | CrystalDiskInfo y CrystalDiskMark, si son compatibles | 
+| Clase | CrystalDiskInfo / herramienta SMART | 
 
 Se comprobarán los siguientes aspectos:
 
@@ -152,18 +152,6 @@ Se analizarán:
 - Conectividad con otros equipos.
 - Posibles pérdidas de paquetes.
 
-## 6. Registro de resultados
-
-Una vez realizadas las pruebas, se completará la siguiente tabla para documentar las condiciones y los resultados obtenidos.
-
-| Equipo | Prueba | Herramienta | Condiciones | Resultado e interpretación |
-|---|---|---|---|---|
-| Casa | Memoria | | | |
-| Casa | Disco | | | |
-| Casa | Red | | | |
-| Clase | Memoria | | | |
-| Clase | Disco | | | |
-| Clase | Red | | | |
 
 ## 7. Conclusiones
 
