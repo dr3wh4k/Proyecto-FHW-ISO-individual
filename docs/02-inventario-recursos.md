@@ -55,8 +55,7 @@ A continuación, se comparan los recursos conocidos de ambos equipos.
 | Tipo | Sobremesa | Portátil |
 | Procesador | Intel Core i7 | Pendiente |
 | Memoria RAM | 16 GB | 32 GB |
-| Almacenamiento externo | SanDisk 1 TB | No especificado |
-| Almacenamiento interno | Pendiente | Pendiente |
+| Almacenamiento externo | SanDisk 1 TB | SanDisk 1 TB |
 | Uso principal | Proyecto individual y prácticas | Actividades y prácticas de clase |
 
 ### 3.1. Análisis de rendimiento
