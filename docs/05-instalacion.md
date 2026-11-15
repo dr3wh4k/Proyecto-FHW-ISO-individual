@@ -101,9 +101,9 @@ Las direcciones se configurarán de forma estática para garantizar que cada nod
 
 | Parámetro | Valor |
 |---|---|
-| Sistema | Windows |
-| Nombre del equipo | Pendiente |
-| IP | Pendiente |
+| Sistema | Windows 11 PRO |
+| Nombre del equipo | Windows-cli |
+| IP | 192.168.25.14 |
 | Puerta de enlace | Según segmento de red |
 | DNS | Según servicios implantados |
 
@@ -111,19 +111,7 @@ Las direcciones se configurarán de forma estática para garantizar que cada nod
 
 | Incidencia | Solución aplicada | Estado |
 |---|---|---|
-| Problemas de arranque de máquinas virtuales | Pendiente de documentar | Pendiente |
-| Problemas de conectividad | Revisar adaptadores y direccionamiento | En revisión |
-| Problemas de acceso a Internet en Debian | Revisar gateway, DNS y NAT | En revisión |
+| Problemas de conectividad | Revisar adaptadores y direccionamiento | Comprobado |
+| Problemas de acceso a Internet en Debian | Revisar gateway, DNS y NAT | Comprobado |
 
-## 11. Evidencias
 
-Añadir capturas de:
-
-- Instalación de Proxmox.
-- Configuración de los tres nodos.
-- Instalación de MikroTik.
-- Configuración de OPNsense.
-- Instalación de Debian.
-- Instalación de TrueNAS.
-- Instalación de Windows Server.
-- Instalación del cliente Windows.
