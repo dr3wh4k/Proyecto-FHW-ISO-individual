@@ -82,7 +82,7 @@ Un cuello de botella se produce cuando uno de los componentes limita el rendimie
 
 | Recurso | Posible limitación | Solución propuesta |
 |---|---|---|
-| CPU | Pendiente de comprobar según el modelo y la carga de trabajo | Evitar ejecutar tareas innecesarias simultáneamente |
+| CPU | Carga de trabajo elevada si se ejecutan varias maquinas a la vez | Evitar ejecutar tareas innecesarias simultáneamente |
 | RAM | Los 16 GB pueden limitar la ejecución de varias máquinas virtuales | Asignar la memoria de forma equilibrada y cerrar aplicaciones innecesarias |
 | Disco | El rendimiento depende del modelo del disco y su conexión | Utilizar el disco más rápido para las máquinas virtuales |
 | Red | Pendiente de comprobar | Revisar la conexión y los adaptadores de red |
@@ -91,7 +91,7 @@ Un cuello de botella se produce cuando uno de los componentes limita el rendimie
 
 | Recurso | Posible limitación | Solución propuesta |
 |---|---|---|
-| CPU | Pendiente de identificar | Ajustar los recursos de las máquinas virtuales |
+| CPU | Carga de trabajo elevada, pero menos que el pc de sobremesa | Ajustar los recursos de las máquinas virtuales |
 | RAM | Dispone de 32 GB, aunque puede agotarse con muchas máquinas virtuales | Controlar el consumo de memoria |
 | Disco | Capacidad y velocidad pendientes de identificar | Revisar el espacio disponible y el rendimiento |
 | Red | Pendiente de comprobar | Verificar la conectividad y los adaptadores |
