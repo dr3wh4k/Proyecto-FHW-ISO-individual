@@ -16,19 +16,27 @@ Documentar el proceso de instalación de los sistemas y servicios que forman par
 
 ## 3. Instalación de Proxmox VE
 
-Se instalarán tres nodos Proxmox VE para formar un entorno de virtualización.
+Se instalarán tres nodos Proxmox VE para formar un clúster de virtualización, permitiendo centralizar la administración de máquinas virtuales y contenedores, así como distribuir los recursos entre los diferentes nodos.
 
-| Parámetro | Nodo 1 | Nodo 2 | Nodo 3 |
+Cada nodo tendrá una dirección IP estática dentro de la red `192.168.25.0/24`.
+
+| **Parámetro** | **Nodo 1** | **Nodo 2** | **Nodo 3** |
 |---|---|---|---|
-| Nombre | Pendiente | Pendiente | Pendiente |
+| Nombre | `pve-node1` | `pve-node2` | `pve-node3` |
 | Versión | Pendiente | Pendiente | Pendiente |
-| IP de gestión | Pendiente | Pendiente | Pendiente |
-| Gateway | Pendiente | Pendiente | Pendiente |
-| DNS | Pendiente | Pendiente | Pendiente |
-| CPU | Pendiente | Pendiente | Pendiente |
-| RAM | Pendiente | Pendiente | Pendiente |
-| Disco | Pendiente | Pendiente | Pendiente |
+| IP de gestión | `192.168.25.11/24` | `192.168.25.12/24` | `192.168.25.13/24` |
+| Gateway | `192.168.25.1` | `192.168.25.1` | `192.168.25.1` |
 
+### Plan de direccionamiento
+
+- **Red:** `192.168.25.0/24`
+- **Gateway principal:** `192.168.25.1` (MikroTik CHR).
+- **Nodo Proxmox 1:** `192.168.25.11`
+- **Nodo Proxmox 2:** `192.168.25.12`
+- **Nodo Proxmox 3:** `192.168.25.13`
+- **Máscara:** `255.255.255.0`
+
+Las direcciones se configurarán de forma estática para garantizar que cada nodo mantenga siempre la misma IP dentro de la infraestructura.
 ### Consideraciones
 
 - Activar la virtualización anidada cuando sea necesaria.
