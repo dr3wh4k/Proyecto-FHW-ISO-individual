@@ -23,7 +23,7 @@ Cada nodo tendrá una dirección IP estática dentro de la red `192.168.25.0/24`
 | **Parámetro** | **Nodo 1** | **Nodo 2** | **Nodo 3** |
 |---|---|---|---|
 | Nombre | `pve-node1` | `pve-node2` | `pve-node3` |
-| Versión | Pendiente | Pendiente | Pendiente |
+| Versión |  v9.2 |  v9.2 |  v9.2 |
 | IP de gestión | `192.168.25.11/24` | `192.168.25.12/24` | `192.168.25.13/24` |
 | Gateway | `192.168.25.1` | `192.168.25.1` | `192.168.25.1` |
 
