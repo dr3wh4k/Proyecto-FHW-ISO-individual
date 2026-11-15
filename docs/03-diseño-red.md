@@ -83,15 +83,15 @@ La dirección estática se configurará cuando se compruebe que está libre y fu
 |---|---|---|
 | MikroTik | ether2 | `192.168.25.1/24` |
 | OPNsense | em0 | `192.168.25.249` |
-| OPNsense | em1 | Pendiente |
 | Debian | enp0s3 | DHCP |
 | TrueNAS | Gestión | DHCP |
 | TrueNAS | Gestión futura | `192.168.25.200` |
-| Proxmox Nodo 1 | Gestión | Pendiente |
-| Proxmox Nodo 2 | Gestión | Pendiente |
-| Proxmox Nodo 3 | Gestión | Pendiente |
+| Proxmox Nodo 1 | Gestión | 192.168.25.11 |
+| Proxmox Nodo 2 | Gestión | 192.168.25.12 |
+| Proxmox Nodo 3 | Gestión | 192.168.25.13 |
 | Windows Server | Red | Pendiente |
-| Cliente Windows | Red | Pendiente |
+| Cliente Windows | Red | DHCP |
+| Cliente Debian | Red | DHCP |
 
 ## 5. Redes de VirtualBox
 
