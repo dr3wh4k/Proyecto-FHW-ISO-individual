@@ -136,12 +136,12 @@ Se comprobarán los siguientes aspectos:
 
 **Objetivo:** comprobar la conectividad y el funcionamiento de las interfaces de red.
 
-| Equipo | Herramienta | Resultado |
-|---|---|---|
-| Casa | `ipconfig /all` | Pendiente |
-| Clase | `ipconfig /all` | Pendiente |
-| Casa | `ping` | Pendiente |
-| Clase | `ping` | Pendiente |
+| Equipo | Herramienta | 
+|---|---|
+| Casa | `ipconfig /all` | 
+| Clase | `ipconfig /all` |
+| Casa | `ping` |
+| Clase | `ping` |
 
 Se analizarán:
 
