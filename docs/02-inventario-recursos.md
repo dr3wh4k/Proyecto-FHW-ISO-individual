@@ -17,12 +17,10 @@ El ordenador de casa se utiliza para realizar las tareas del proyecto individual
 | Tipo de equipo | Ordenador de sobremesa |
 | Procesador | Intel Core i7 (modelo exacto pendiente de identificar) |
 | Memoria RAM | 16 GB |
-| Almacenamiento interno | Pendiente de identificar |
+| Almacenamiento interno | 1TB |
 | Almacenamiento externo | Disco SanDisk de 1 TB |
-| Tarjeta gráfica | Pendiente de identificar |
-| Tarjeta de red | Pendiente de identificar |
-| Sistema operativo | Pendiente de identificar |
-| Virtualización | Pendiente de comprobar |
+| Tarjeta gráfica | No tiene |
+| Sistema operativo | Windows 11 |
 
 **Almacenamiento externo**
 
@@ -41,14 +39,12 @@ El ordenador portátil de clase se utiliza para realizar las actividades y prác
 | Componente | Características |
 |---|---|
 | Tipo de equipo | Ordenador portátil |
-| Procesador | Pendiente de identificar |
+| Procesador | Intel Core i5 |
 | Memoria RAM | 32 GB |
-| Almacenamiento interno | Pendiente de identificar |
-| Almacenamiento externo | No especificado |
-| Tarjeta gráfica | Pendiente de identificar |
-| Tarjeta de red | Pendiente de identificar |
-| Sistema operativo | Pendiente de identificar |
-| Virtualización | Pendiente de comprobar |
+| Almacenamiento interno | 1 TB |
+| Almacenamiento externo | Disco SanDisk de 1 TB |
+| Tarjeta gráfica | NO TIENE |
+| Sistema operativo | Lliurex |
 
 ## 3. Comparativa de los equipos
 
