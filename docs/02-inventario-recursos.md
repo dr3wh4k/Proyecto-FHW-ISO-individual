@@ -106,8 +106,8 @@ Los resultados se incorporarán una vez ejecutadas las herramientas correspondie
 
 **Objetivo:** comprobar el estado de la memoria y observar su consumo durante la ejecución de aplicaciones y máquinas virtuales.
 
-| Equipo | Herramienta | Resultado |
-|---|---|---|
+| Equipo | Herramienta | 
+|---|---|
 | Casa | Diagnóstico de memoria del sistema / MemTest86 |
 | Clase | Diagnóstico de memoria del sistema / MemTest86 |
 
