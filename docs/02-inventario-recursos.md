@@ -108,8 +108,8 @@ Los resultados se incorporarán una vez ejecutadas las herramientas correspondie
 
 | Equipo | Herramienta | Resultado |
 |---|---|---|
-| Casa | Diagnóstico de memoria del sistema / MemTest86 | Pendiente |
-| Clase | Diagnóstico de memoria del sistema / MemTest86 | Pendiente |
+| Casa | Diagnóstico de memoria del sistema / MemTest86 |
+| Clase | Diagnóstico de memoria del sistema / MemTest86 |
 
 Se registrarán los posibles errores detectados y el consumo de memoria durante las pruebas.
 
