@@ -163,17 +163,4 @@ Por otro lado, el portátil de clase dispone de 32 GB de RAM, lo que proporciona
 
 Para determinar cuál de los dos equipos ofrece un mejor rendimiento general será necesario completar el inventario del procesador, almacenamiento y red, además de ejecutar las pruebas de diagnóstico.
 
-## 8. Evidencias
-
-Se incorporarán capturas de pantalla y registros de las pruebas realizadas.
-
-- [ ] Información del procesador del ordenador de casa.
-- [ ] Información de la memoria RAM del ordenador de casa.
-- [ ] Información del disco SanDisk de 1 TB.
-- [ ] Información del procesador del portátil de clase.
-- [ ] Información de la memoria RAM del portátil.
-- [ ] Diagnóstico de memoria de ambos equipos.
-- [ ] Diagnóstico de almacenamiento de ambos equipos.
-- [ ] Pruebas de conectividad de red.
-- [ ] Comparativa del consumo de recursos.
 
