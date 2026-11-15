@@ -4,8 +4,7 @@
 flowchart TB
   WAN["WAN aula<br/>172.16.222.0/24<br/>IP asignada por profesor"]
   FW["Mikrotik<br/>WAN / LAN 192.168.25.1"]
-  FW["OPNSENSEk<br/>LAN 192.168.25.249"]
-  SW["Switch LAN"]
+  FW["OPNSENSEk<br/>LAN 192.168.25.249"W["Switch LAN"]
   PVE["Proxmox<br/>192.168.25.10"]
   NAS["TrueNAS<br/>192.168.25.20"]
   DC["Windows Server<br/>192.168.25.30"]
