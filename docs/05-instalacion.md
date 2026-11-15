@@ -91,11 +91,11 @@ Las direcciones se configurarán de forma estática para garantizar que cada nod
 
 | Parámetro | Valor |
 |---|---|
-| Sistema | Windows Server |
-| Versión | Pendiente de documentar |
-| Nombre del equipo | Pendiente |
-| IP | Pendiente |
-| Servicios | Pendiente de definir |
+| Sistema | Windows Server 2025 |
+| Versión | 10.0.26100 |
+| Nombre del equipo | Windows-srv |
+| IP | 192.168.25.14 |
+| Servicios | Active Directory |
 
 ## 9. Instalación del cliente Windows
 
@@ -103,7 +103,7 @@ Las direcciones se configurarán de forma estática para garantizar que cada nod
 |---|---|
 | Sistema | Windows 11 PRO |
 | Nombre del equipo | Windows-cli |
-| IP | 192.168.25.14 |
+| IP | DHCP |
 | Puerta de enlace | Según segmento de red |
 | DNS | Según servicios implantados |
 
