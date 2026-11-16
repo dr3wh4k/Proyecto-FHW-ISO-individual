@@ -43,9 +43,7 @@ Actúa como cortafuegos y servidor de comunicaciones.
 |---|---|
 | Interfaz WAN | `em0` |
 | Dirección WAN | `192.168.25.248` |
-| Obtención WAN | DHCP desde MikroTik |
 | Interfaz LAN | `em1` |
-| Dirección LAN | Pendiente de confirmar |
 | Función | Filtrado y segmentación de red |
 
 La interfaz WAN se conecta a la red principal del MikroTik.
