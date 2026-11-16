@@ -161,6 +161,5 @@ El ordenador de casa dispone de un procesador Intel Core i7 y 16 GB de RAM, adem
 
 Por otro lado, el portátil de clase dispone de 32 GB de RAM, lo que proporciona mayor capacidad para trabajar con varias máquinas virtuales y servicios al mismo tiempo.
 
-Para determinar cuál de los dos equipos ofrece un mejor rendimiento general será necesario completar el inventario del procesador, almacenamiento y red, además de ejecutar las pruebas de diagnóstico.
 
 
