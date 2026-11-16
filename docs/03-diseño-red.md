@@ -74,8 +74,7 @@ TrueNAS proporciona el servicio de almacenamiento.
 | Parámetro | Configuración |
 |---|---|
 | Nombre de máquina | `TRUENAS_ISO_FHW` |
-| Dirección actual | DHCP |
-| Dirección estática prevista | `192.168.25.247` |
+| Dirección estática | `192.168.25.247` |
 | Función | Almacenamiento centralizado |
 
 La dirección estática se configurará cuando se compruebe que está libre y fuera del rango DHCP dinámico.
