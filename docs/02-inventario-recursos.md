@@ -74,7 +74,7 @@ El portátil dispone de 32 GB de memoria RAM, el doble que el ordenador de casa.
 
 No obstante, para realizar una comparación completa será necesario conocer también el modelo del procesador, el almacenamiento y las características de red.
 
-## 4. Identificación de posibles cuellos de botella
+## 4. Identificación de cuellos de botella
 
 Un cuello de botella se produce cuando uno de los componentes limita el rendimiento general del equipo, impidiendo aprovechar correctamente el resto de los recursos.
 
