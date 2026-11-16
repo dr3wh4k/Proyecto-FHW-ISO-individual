@@ -62,18 +62,17 @@ Las direcciones se configurarán de forma estática para garantizar que cada nod
 |---|---|
 | Sistema | OPNsense |
 | Interfaz WAN | `em0` |
-| IP WAN | `192.168.25.249` |
+| IP WAN | `192.168.25.248` |
 | Obtención WAN | DHCP |
 | Interfaz LAN | `em1` |
-| IP LAN | Pendiente de confirmar |
 
-## 6. Instalación de Debian
+## 6. Instalación de Debian NFT
 
 | Parámetro | Valor |
 |---|---|
 | Sistema | Debian |
 | Interfaz principal | `enp0s3` |
-| Configuración IP | DHCP |
+| Configuración IP | `192.168.25.40` |
 | Firewall | nftables |
 | Modo de administración | Consola |
 
@@ -84,7 +83,7 @@ Las direcciones se configurarán de forma estática para garantizar que cada nod
 | Nombre | `TRUENAS_ISO_FHW` |
 | Sistema | TrueNAS |
 | Dirección inicial | DHCP |
-| Dirección prevista | `192.168.25.200` |
+| Dirección prevista | `192.168.25.247` |
 | Función | Almacenamiento |
 
 ## 8. Instalación de Windows Server
@@ -94,7 +93,7 @@ Las direcciones se configurarán de forma estática para garantizar que cada nod
 | Sistema | Windows Server 2025 |
 | Versión | 10.0.26100 |
 | Nombre del equipo | Windows-srv |
-| IP | 192.168.25.14 |
+| IP | `192.168.25.14` |
 | Servicios | Active Directory |
 
 ## 9. Instalación del cliente Windows
@@ -104,10 +103,21 @@ Las direcciones se configurarán de forma estática para garantizar que cada nod
 | Sistema | Windows 11 PRO |
 | Nombre del equipo | Windows-cli |
 | IP | DHCP |
-| Puerta de enlace | Según segmento de red |
+| Puerta de enlace | IP Mikrotik |
 | DNS | Según servicios implantados |
 
-## 10. Registro de incidencias
+
+## 10. Instalación del cliente Debian
+
+| Parámetro | Valor |
+|---|---|
+| Sistema | Debian 13 |
+| Nombre del equipo | Debian-cli |
+| IP | DHCP |
+| Puerta de enlace | IP Mikrotik |
+| DNS | Según servicios implantados |
+
+## 11. Registro de incidencias
 
 | Incidencia | Solución aplicada | Estado |
 |---|---|---|
