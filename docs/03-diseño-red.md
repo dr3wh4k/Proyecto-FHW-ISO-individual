@@ -42,7 +42,7 @@ Actúa como cortafuegos y servidor de comunicaciones.
 | Parámetro | Configuración |
 |---|---|
 | Interfaz WAN | `em0` |
-| Dirección WAN | `192.168.25.249` |
+| Dirección WAN | `192.168.25.248` |
 | Obtención WAN | DHCP desde MikroTik |
 | Interfaz LAN | `em1` |
 | Dirección LAN | Pendiente de confirmar |
@@ -54,14 +54,14 @@ La interfaz LAN se utiliza para crear un segmento interno independiente.
 
 La dirección `192.168.1.1` se considera únicamente una referencia inicial, hasta comprobar la configuración real.
 
-### Debian
+### Debian NFT
 
 Debian forma parte de los sistemas de comunicaciones del proyecto.
 
 | Parámetro | Configuración |
 |---|---|
 | Interfaz | `enp0s3` |
-| Dirección IP | DHCP |
+| Dirección IP | `192.168.25.40` |
 | Red esperada | `192.168.25.0/24` |
 | Firewall | nftables |
 
@@ -75,7 +75,7 @@ TrueNAS proporciona el servicio de almacenamiento.
 |---|---|
 | Nombre de máquina | `TRUENAS_ISO_FHW` |
 | Dirección actual | DHCP |
-| Dirección estática prevista | `192.168.25.200` |
+| Dirección estática prevista | `192.168.25.247` |
 | Función | Almacenamiento centralizado |
 
 La dirección estática se configurará cuando se compruebe que está libre y fuera del rango DHCP dinámico.
@@ -84,15 +84,14 @@ La dirección estática se configurará cuando se compruebe que está libre y fu
 
 | Dispositivo | Interfaz | Dirección |
 |---|---|---|
-| MikroTik | ether2 | `192.168.25.1/24` |
-| OPNsense | em0 | `192.168.25.249` |
-| Debian | enp0s3 | DHCP |
-| TrueNAS | Gestión | DHCP |
-| TrueNAS | Gestión futura | `192.168.25.200` |
+| MikroTik | ether2 | 192.168.25.1 |
+| OPNsense | em0 | 192.168.25.249 |
+| Debian | enp0s3 | 192.168.25.40 |
+| TrueNAS | Gestión | 192.168.25.247 |
 | Proxmox Nodo 1 | Gestión | 192.168.25.11 |
 | Proxmox Nodo 2 | Gestión | 192.168.25.12 |
 | Proxmox Nodo 3 | Gestión | 192.168.25.13 |
-| Windows Server | Red | Pendiente |
+| Windows Server | Red | 192.168.25.14 |
 | Cliente Windows | Red | DHCP |
 | Cliente Debian | Red | DHCP |
 
