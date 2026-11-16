@@ -42,8 +42,7 @@ La infraestructura deberá permitir:
 - Procesador compatible con virtualización.
 
 ### Software
-
-- Oracle VirtualBox.
+<!-- En VirtualBox -->
 - Proxmox VE.
 - MikroTik CHR.
 - OPNsense.
