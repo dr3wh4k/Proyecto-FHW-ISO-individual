@@ -1,6 +1,4 @@
 # 04 — Diseño de servicios de directorio
-<img width="1286" height="1006" alt="DIAGRAMA ISO-FHW-Page-1 drawio" src="https://github.com/user-attachments/assets/2f8699bd-f8de-44aa-8980-8f84ffc45055" />
-
 
 ## 1. Objetivo
 
