@@ -61,13 +61,11 @@ La red principal del laboratorio utiliza el segmento `192.168.25.0/24`.
 
 ## 6. Estado del proyecto
 
-El proyecto se encuentra en fase de despliegue y configuración.
-
 Las direcciones IP y servicios se documentarán diferenciando entre configuraciones realizadas, propuestas y tareas pendientes.
 
 ## 7. Criterios de documentación
 
 - No se considerará configurado ningún servicio hasta comprobar su funcionamiento.
-- Las direcciones IP pendientes se definirán antes de completar la configuración.
+- Las direcciones IP, junto al esquema de red se definirán antes de completar la configuración.
 - Las pruebas se acompañarán de evidencias.
 - Se documentarán las incidencias y sus soluciones.
