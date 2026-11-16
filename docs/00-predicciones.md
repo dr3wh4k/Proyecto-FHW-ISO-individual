@@ -14,9 +14,10 @@ Estas predicciones permitirán comparar los resultados esperados con los resulta
 | OPNsense | Filtrará el tráfico entre su interfaz WAN y su red LAN interna. |
 | Proxmox VE | Permitirá administrar tres nodos de virtualización. |
 | TrueNAS | Proporcionará almacenamiento centralizado. |
-| Debian | Permitirá aplicar reglas de filtrado mediante nftables. |
+| Debian NFT | Permitirá aplicar reglas de filtrado mediante nftables. |
 | Windows Server | Proporcionará servicios de infraestructura y administración. |
 | Cliente Windows | Permitirá comprobar el acceso a los servicios de red. |
+| Cliente Debian | Permitirá comprobar el acceso a los servicios de red. |
 
 ## 3. Predicciones de red
 
