@@ -1,5 +1,8 @@
 # 03 — Diseño de red
 
+<img width="1241" height="984" alt="DIAGRAMA ISO-FHW-Page-1 drawio (1)" src="https://github.com/user-attachments/assets/55f3924d-73c5-4536-8f24-f14223ab0f8c" />
+
+
 ## 1. Objetivo
 
 Diseñar la infraestructura de red del laboratorio, identificando los dispositivos de comunicaciones, sus interfaces, las direcciones IP y las conexiones entre los diferentes segmentos.
