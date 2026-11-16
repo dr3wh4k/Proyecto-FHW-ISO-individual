@@ -39,7 +39,7 @@ El ordenador portátil de clase se utiliza para realizar las actividades y prác
 | Componente | Características |
 |---|---|
 | Tipo de equipo | Ordenador portátil |
-| Procesador | Intel Core i5 |
+| Procesador | Intel Core Ultra i5 |
 | Memoria RAM | 32 GB |
 | Almacenamiento interno | 1 TB |
 | Almacenamiento externo | Disco SanDisk de 1 TB |
