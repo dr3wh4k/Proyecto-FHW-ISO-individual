@@ -27,18 +27,15 @@ La red principal del laboratorio utiliza el segmento `192.168.25.0/24`.
 |---|---|---|
 | MikroTik CHR | ether2 (LAN) | `192.168.25.1/24` |
 | MikroTik CHR | ether3 (WAN) | Red exterior |
-| OPNsense | em0 (WAN) | `192.168.25.249` (DHCP) |
-| OPNsense | em1 (LAN) | Pendiente de confirmar |
-| Debian | enp0s3 | DHCP |
-| TrueNAS | Gestión | DHCP |
-| TrueNAS | Gestión futura | `192.168.25.248` |
-| Proxmox Nodo 1 | Gestión | Pendiente |
-| Proxmox Nodo 2 | Gestión | Pendiente |
-| Proxmox Nodo 3 | Gestión | Pendiente |
-| Windows Server | Red LAN | Pendiente |
+| OPNsense | em0 (WAN) | `192.168.25.248` |
+| Debian NFTABLES | enp0s3 | `192.168.25.40` |
+| TrueNAS | Gestión futura | `192.168.25.247` |
+| Proxmox Nodo 1 | Gestión | `192.168.25.11` |
+| Proxmox Nodo 2 | Gestión | `192.168.25.12` |
+| Proxmox Nodo 3 | Gestión | `192.168.25.13` |
+| Windows Server | Red LAN | `192.168.25.14` |
 | Cliente Windows | Red LAN | DHCP |
-
-Las direcciones de los nodos Proxmox y de los equipos Windows se definirán posteriormente.
+| Cliente Debian | Red LAN | DHCP |
 
 ## 4. Índice de documentación
 
