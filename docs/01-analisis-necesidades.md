@@ -10,15 +10,15 @@ Se plantea un entorno de laboratorio que simula una infraestructura empresarial 
 
 La infraestructura deberá permitir:
 
-- Administrar máquinas virtuales mediante Proxmox VE.
+- Administrar máquinas virtuales y sus nodos mediante Proxmox VE.
 - Gestionar tres nodos dentro de un entorno de virtualización.
-- Proporcionar conectividad mediante MikroTik CHR.
+- Proporcionar conectividad mediante los servidores de comunicación.
 - Asignar direcciones IP automáticamente mediante DHCP.
 - Filtrar y controlar el tráfico mediante OPNsense.
 - Aplicar reglas de firewall en Debian utilizando nftables.
-- Disponer de almacenamiento centralizado mediante TrueNAS.
+- Disponer de almacenamiento centralizado y copias de seguridad mediante TrueNAS.
 - Instalar y configurar Windows Server.
-- Conectar un cliente Windows para realizar pruebas.
+- Conectar clientes Windows y Debian para realizar pruebas.
 - Comprobar la comunicación entre los diferentes equipos.
 
 ## 3. Necesidades no funcionales
