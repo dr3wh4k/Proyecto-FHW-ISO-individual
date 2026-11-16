@@ -16,7 +16,7 @@ El laboratorio se desarrolla utilizando VirtualBox y diferentes sistemas operati
 - Debian: sistema Linux con configuración de red y firewall mediante nftables.
 - TrueNAS: almacenamiento centralizado.
 - Windows Server: servidor de infraestructura y servicios.
-- Windows: equipo cliente para realizar pruebas.
+- Windows y Debian: equipos clientes para realizar pruebas.
 - VirtualBox: entorno de virtualización del laboratorio.
 
 ## 3. Direccionamiento IP
