@@ -62,7 +62,7 @@ La infraestructura deberá permitir:
 | Virtualización | Proxmox VE |
 | Almacenamiento | TrueNAS |
 | Servicios de servidor | Windows Server |
-| Equipo de pruebas | Cliente Windows |
+| Equipo de pruebas | Clientes Debian y Windows |
 
 ## 6. Resultado esperado
 
