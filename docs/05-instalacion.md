@@ -181,6 +181,9 @@ Este servidor permite gestionar el almacenamiento y configurar diferentes sistem
 | Dirección IP final | `192.168.25.247` |
 | Función | Almacenamiento centralizado |
 
+<img width="795" height="631" alt="TRUENAS IP" src="https://github.com/user-attachments/assets/8eeb87c5-42c3-40e4-8c44-865be65f4829" />
+
+
 ### Configuración y comprobaciones
 
 - Instalación de TrueNAS.
@@ -209,6 +212,9 @@ Se ha configurado Active Directory Domain Services (AD DS) para crear un dominio
 | Dirección IP | `192.168.25.14` |
 | Servicio principal | Active Directory Domain Services |
 | Administración | Interfaz gráfica |
+
+<img width="1054" height="779" alt="WINDOWS SERVER IP" src="https://github.com/user-attachments/assets/590fa6f7-87ca-4f38-b899-2045a1ade4df" />
+
 
 ### Configuración y comprobaciones
 
