@@ -27,7 +27,7 @@ La red principal del laboratorio utiliza el segmento `192.168.25.0/24`.
 |---|---|---|
 | MikroTik CHR | ether2 (LAN) | `192.168.25.1/24` |
 | MikroTik CHR | ether3 (WAN) | Red exterior |
-| OPNsense | em0 (WAN) | `192.168.25.248` |
+| OPNsense | em0 (WAN) | `192.168.25.2` |
 | Debian NFTABLES | enp0s3 | `192.168.25.40` |
 | TrueNAS | Gestión futura | `192.168.25.247` |
 | Proxmox Nodo 1 | Gestión | `192.168.25.11` |
