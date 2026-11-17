@@ -243,6 +243,9 @@ Se ha instalado Windows 11 Pro como equipo cliente para comprobar los servicios 
 | Puerta de enlace | `192.168.25.1` |
 | DNS | Servidor DNS de Active Directory |
 
+<img width="1060" height="786" alt="ipconfig WIndows Cliente" src="https://github.com/user-attachments/assets/83aa5226-0cfc-4dde-932a-9c917417eec3" />
+
+
 ### Comprobaciones
 
 - Obtención automática de dirección IP mediante DHCP.
