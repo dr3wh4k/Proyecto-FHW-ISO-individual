@@ -55,9 +55,9 @@ Para comprobar los diferentes tipos de RAID se realizan pruebas de escritura y l
 
 | RAID | Prueba realizada | Resultado |
 |---|---|---|
-| RAID 0 | Simulación de fallo de un disco | Pendiente |
-| RAID 1 | Simulación de fallo de un disco | Pendiente |
-| RAIDZ1 | Simulación de fallo de un disco | Pendiente |
+| RAID 0 | Simulación de fallo de un disco | No se pierden datos porque el mirror pasa al otro disco |
+| RAID 1 | Simulación de fallo de un disco | Los datos siguen disponibles gracias al otro disco. |
+| RAIDZ1 | Simulación de fallo de un disco | 	Los datos siguen disponibles gracias a la paridad. |
 
 Se comprueba el estado de los pools desde la interfaz de TrueNAS y mediante el comando:
 
