@@ -88,6 +88,9 @@ Se ha instalado MikroTik CHR utilizando RouterOS como sistema operativo de enrut
 | Interfaz WAN | `ether3` |
 | Función | Enrutamiento y servidor DHCP |
 
+<img width="721" height="402" alt="MIKROTIK CONFIG + PING" src="https://github.com/user-attachments/assets/cdf0a7d4-f544-40d0-bf61-59d581b1b9b6" />
+
+
 ### Servicios y funcionalidades
 
 - Enrutamiento entre redes.
