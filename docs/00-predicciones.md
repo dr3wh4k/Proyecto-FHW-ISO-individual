@@ -29,7 +29,7 @@ Se espera que:
 
 - MikroTik utilice `192.168.25.1` como puerta de enlace de la red principal.
 - MikroTik proporcione direcciones IP mediante DHCP.
-- OPNsense obtenga la dirección `192.168.25.249` en su interfaz WAN.
+- OPNsense obtenga la dirección `192.168.25.2` en su interfaz WAN.
 - Los equipos conectados a la red principal puedan obtener configuración IP automáticamente.
 - La LAN de OPNsense permita crear un segmento interno independiente.
 
