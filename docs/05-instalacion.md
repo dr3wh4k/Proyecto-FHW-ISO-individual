@@ -116,7 +116,7 @@ Se ha instalado OPNsense como sistema de firewall y seguridad de red, utilizando
 | Interfaz LAN | `em1` |
 | Función | Firewall y seguridad de red |
 
-<img width="748" height="493" alt="IP OPNSENSE" src="https://github.com/user-attachments/assets/005def77-1167-42b2-bf8a-c850be71bc21" />
+<img width="717" height="471" alt="opnsense IP  2 " src="https://github.com/user-attachments/assets/cd872cf1-1959-45eb-a6bd-f453a3e5d50e" />
 
 
 ### Comprobaciones
