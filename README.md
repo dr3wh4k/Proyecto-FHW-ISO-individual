@@ -39,19 +39,21 @@ La red principal del laboratorio utiliza el segmento `192.168.25.0/24`.
 
 ## 4. Índice de documentación
 
-| Documento | Descripción |
-|---|---|
-| [00 - Predicciones](docs/00-predicciones.md) | Hipótesis iniciales y riesgos |
-| [01 - Análisis de necesidades](docs/01-analisis-necesidades.md) | Requisitos de la infraestructura |
-| [02 - Inventario de recursos](docs/02-inventario-recursos.md) | Hardware y software |
-| [03 - Diseño de red](docs/03-diseno-red.md) | Topología y direccionamiento IP |
-| [04 - Servicios de directorio](docs/04-diseno-servicios-directorio.md) | Diseño de servicios de directorio |
-| [05 - Instalación](docs/05-instalacion.md) | Instalación de los sistemas |
-| [06 - Configuración](docs/06-configuracion-sistemas-servicios.md) | Configuración de sistemas y servicios |
-| [07 - Almacenamiento](docs/07-almacenamiento-comparticion.md) | Almacenamiento y compartición |
-| [08 - Seguridad](docs/08-seguridad-administracion.md) | Seguridad y administración |
-| [09 - Pruebas](docs/09-pruebas-verificacion.md) | Verificación de funcionamiento |
-| [10 - Conclusiones](docs/10-conclusiones.md) | Evaluación final |
+Toda la documentación del proyecto está organizada en el directorio [`docs/`](docs/).
+
+| Nº | Documento | Descripción |
+|---|---|---|
+| 00 | [Predicciones](docs/00-predicciones.md) | Estimación inicial de los recursos y necesidades del proyecto. |
+| 01 | [Análisis de necesidades](docs/01-analisis-necesidades.md) | Identificación de los requisitos técnicos y funcionales de la infraestructura. |
+| 02 | [Inventario de recursos](docs/02-inventario-recursos.md) | Inventario del hardware, software y recursos disponibles. |
+| 03 | [Diseño de red](docs/03-diseño-red.md) | Topología, direccionamiento IP y arquitectura de red. |
+| 04 | [Diseño de servicios de directorio](docs/04-diseño-servicios-directorio.md) | Planificación de Active Directory y servicios de directorio. |
+| 05 | [Instalación de la plataforma](docs/05-instalacion.md) | Instalación y configuración de los sistemas y servidores virtualizados. |
+| 06 | [Servicios](docs/06-servicios.md) | Configuración y puesta en marcha de los servicios de infraestructura. |
+| 07 | [Backups y recuperación](docs/07-backups-recuperacion.md) | Estrategias de copias de seguridad y procedimientos de recuperación. |
+| 08 | [Análisis y optimización](docs/08-analisis-optimizacion.md) | Evaluación del rendimiento y optimización de los recursos. |
+| 09 | [Registro de incidencias](docs/09-incidencias.md) | Problemas encontrados durante el proyecto y soluciones aplicadas. |
+| 10 | [Conclusiones](docs/10-conclusiones.md) | Valoración final, resultados obtenidos y posibles mejoras.
 
 ## 5. Estructura del repositorio
 
