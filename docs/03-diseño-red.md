@@ -42,15 +42,13 @@ Actúa como cortafuegos y servidor de comunicaciones.
 | Parámetro | Configuración |
 |---|---|
 | Interfaz WAN | `em0` |
-| Dirección WAN | `192.168.25.248` |
+| Dirección WAN | `192.168.25.2` |
 | Interfaz LAN | `em1` |
 | Función | Filtrado y segmentación de red |
 
 La interfaz WAN se conecta a la red principal del MikroTik.
 
 La interfaz LAN se utiliza para crear un segmento interno independiente.
-
-La dirección `192.168.1.1` se considera únicamente una referencia inicial, hasta comprobar la configuración real.
 
 ### Debian NFT
 
