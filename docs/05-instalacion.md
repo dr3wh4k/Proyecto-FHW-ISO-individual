@@ -53,6 +53,9 @@ Se han instalado tres nodos Proxmox VE para formar un clúster de virtualizació
 | Gateway | `192.168.25.1` | `192.168.25.1` | `192.168.25.1` |
 | Máscara | `/24` | `/24` | `/24` |
 
+<img width="1466" height="840" alt="CLUSTER FINAL 3 NODOS" src="https://github.com/user-attachments/assets/5eaa6e78-42bc-442f-8080-c106e5de754a" />
+
+
 ### Configuración y comprobaciones
 
 Durante la instalación se han realizado las siguientes tareas:
