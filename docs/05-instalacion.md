@@ -268,6 +268,9 @@ Se ha instalado Debian 13 como segundo equipo cliente de la infraestructura. Su 
 | DNS | Servidor DNS configurado en la infraestructura |
 | Administración | Consola |
 
+<img width="988" height="374" alt="CLIENTE DEBIAN IP" src="https://github.com/user-attachments/assets/6671dcc8-621c-4d2f-932b-96e8e2fd3220" />
+
+
 ### Comprobaciones
 
 - Obtención automática de dirección IP.
