@@ -70,8 +70,8 @@ zpool status
 | Tipo RAID | Rendimiento | Redundancia | Capacidad |
 |---|---|---|---|
 | RAID 0 | Alto | No | 100 GB |
-| RAID 1 | Bueno | Sí | 50 GB |
-| RAIDZ1 | Bueno | Sí | 100 GB |
+| RAID 1 | Bueno | Sí | 8 GB |
+| RAIDZ1 | Bueno | Sí | 15 GB |
 
 **Conclusión:**
 
