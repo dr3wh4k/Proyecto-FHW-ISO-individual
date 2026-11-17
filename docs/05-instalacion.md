@@ -116,6 +116,9 @@ Se ha instalado OPNsense como sistema de firewall y seguridad de red, utilizando
 | Interfaz LAN | `em1` |
 | Función | Firewall y seguridad de red |
 
+<img width="748" height="493" alt="IP OPNSENSE" src="https://github.com/user-attachments/assets/005def77-1167-42b2-bf8a-c850be71bc21" />
+
+
 ### Comprobaciones
 
 - Instalación correcta del sistema.
@@ -144,6 +147,9 @@ A diferencia de otros servidores, su administración se realiza exclusivamente m
 | Gateway | `192.168.25.1` |
 | Firewall | nftables |
 | Administración | Consola |
+
+<img width="1266" height="603" alt="DEBIAN NFT IP" src="https://github.com/user-attachments/assets/808e11a7-44f3-4fa6-aa06-18a8762e1f0a" />
+
 
 ### Configuración y comprobaciones
 
