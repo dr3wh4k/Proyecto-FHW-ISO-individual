@@ -80,7 +80,7 @@ La dirección estática se configurará cuando se compruebe que está libre y fu
 | Dispositivo | Interfaz | Dirección |
 |---|---|---|
 | MikroTik | ether2 | 192.168.25.1 |
-| OPNsense | em0 | 192.168.25.249 |
+| OPNsense | em0 | 192.168.25.2 |
 | Debian | enp0s3 | 192.168.25.40 |
 | TrueNAS | Gestión | 192.168.25.247 |
 | Proxmox Nodo 1 | Gestión | 192.168.25.11 |
@@ -114,7 +114,7 @@ La asignación exacta de adaptadores queda pendiente de completar con la configu
 ## 7. Pruebas previstas
 
 - Comprobar la comunicación con `192.168.25.1`.
-- Comprobar que OPNsense recibe la IP WAN `192.168.25.249`.
+- Comprobar que OPNsense recibe la IP WAN `192.168.25.2`.
 - Comprobar la asignación DHCP a Debian.
 - Comprobar el acceso a la interfaz web de TrueNAS.
 - Comprobar la comunicación entre los nodos Proxmox.
