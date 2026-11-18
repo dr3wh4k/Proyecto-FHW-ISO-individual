@@ -56,13 +56,13 @@ La infraestructura deberá permitir:
 
 | Servicio | Sistema responsable |
 |---|---|
-| Enrutamiento | MikroTik CHR |
 | DHCP de la red principal | MikroTik CHR |
 | Firewall de red | OPNsense |
 | Firewall Linux | Debian con nftables |
 | Virtualización | Proxmox VE |
 | Almacenamiento | TrueNAS |
 | Servicios de servidor | Windows Server |
+| Monitorización | Debian Server |
 | Equipo de pruebas | Clientes Debian y Windows |
 
 ## 6. Resultado esperado
