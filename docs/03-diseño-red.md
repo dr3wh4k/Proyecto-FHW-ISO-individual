@@ -87,6 +87,8 @@ La dirección estática se configurará cuando se compruebe que está libre y fu
 | Proxmox Nodo 2 | Gestión | 192.168.25.12 |
 | Proxmox Nodo 3 | Gestión | 192.168.25.13 |
 | Windows Server | Red | 192.168.25.14 |
+| Debian Server | Red | 192.168.25.50 |
+| Debian Server | Red | 192.168.25.60 |
 | Cliente Windows | Red | DHCP |
 | Cliente Debian | Red | DHCP |
 
