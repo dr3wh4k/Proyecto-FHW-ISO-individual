@@ -34,6 +34,8 @@ La red principal del laboratorio utiliza el segmento `192.168.25.0/24`.
 | Proxmox Nodo 2 | Gestión | `192.168.25.12` |
 | Proxmox Nodo 3 | Gestión | `192.168.25.13` |
 | Windows Server | Red LAN | `192.168.25.14` |
+| Debian Server1 | Red LAN | `192.168.25.50` |
+| Debian Server2 | Red LAN | `192.168.25.60` |
 | Cliente Windows | Red LAN | DHCP |
 | Cliente Debian | Red LAN | DHCP |
 
