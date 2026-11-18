@@ -16,6 +16,7 @@ Estas predicciones permitirán comparar los resultados esperados con los resulta
 | TrueNAS | Proporcionará almacenamiento centralizado. |
 | Debian NFT | Permitirá aplicar reglas de filtrado mediante nftables. |
 | Windows Server | Proporcionará servicios de infraestructura y administración. |
+| Debian Server | Proporcionará servicios de infraestructura y monitorización. |
 | Cliente Windows | Permitirá comprobar el acceso a los servicios de red. |
 | Cliente Debian | Permitirá comprobar el acceso a los servicios de red. |
 
