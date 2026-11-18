@@ -43,12 +43,13 @@ La infraestructura deberá permitir:
 
 ### Software
 `En VirtualBox`
-- Proxmox VE.
+- Proxmox VE con 3 Nodos.
 - MikroTik CHR.
 - OPNsense.
 - Debian.
 - TrueNAS.
 - Windows Server.
+- Debian Server.
 - Windows cliente.
 
 ## 5. Servicios previstos
