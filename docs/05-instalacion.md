@@ -111,10 +111,10 @@ Se ha instalado OPNsense como sistema de firewall y seguridad de red, utilizando
 |---|---|
 | Sistema | OPNsense |
 | Interfaz WAN | `em0` |
-| IP WAN | `192.168.25.248` |
+| IP WAN | `192.168.25.2` |
 | Obtención de IP WAN | DHCP |
 | Interfaz LAN | `em1` |
-| Función | Firewall y seguridad de red |
+| Función | Firewall, router y seguridad de red |
 
 <img width="730" height="410" alt="image" src="https://github.com/user-attachments/assets/910b3f91-b95c-4f8d-9eb3-3adf1c08a777" />
 
