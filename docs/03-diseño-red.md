@@ -74,6 +74,16 @@ TrueNAS proporciona el servicio de almacenamiento.
 
 La dirección estática se configurará cuando se compruebe que está libre y fuera del rango DHCP dinámico.
 
+### Proxmox
+
+Se creará un cluster de virtualización con 3 nodos.
+| Parámetro | Configuración |
+|---|---|
+| Nombre de máquina | `PVE1, PVE2, PVE3` |
+| Dirección estática | `192.168.25.11,12,13` |
+| Función | Clúster de virtualización |
+
+
 ## 4. Plan de direccionamiento
 
 | Dispositivo | Interfaz | Dirección |
