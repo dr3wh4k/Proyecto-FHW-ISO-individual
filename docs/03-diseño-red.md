@@ -14,9 +14,7 @@ La red principal del laboratorio utiliza el siguiente direccionamiento:
 
 - Red: `192.168.25.0/24`
 - Máscara: `255.255.255.0`
-- Puerta de enlace: `192.168.25.1`
-- Router principal: MikroTik CHR.
-- Servidor DHCP: MikroTik CHR.
+- Puerta de enlace: `192.168.25.1,2`
 
 ## 3. Dispositivos de comunicaciones
 
