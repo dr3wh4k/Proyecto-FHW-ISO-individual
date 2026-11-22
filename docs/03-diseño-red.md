@@ -1,6 +1,7 @@
 # 03 — Diseño de red
 
-<img width="1241" height="984" alt="DIAGRAMA ISO-FHW-Page-1 drawio (1)" src="https://github.com/user-attachments/assets/55f3924d-73c5-4536-8f24-f14223ab0f8c" />
+<img width="1259" height="958" alt="DIAGRAMA ISO-FHW-Page-1 drawio (2)" src="https://github.com/user-attachments/assets/aa1ba35d-5466-40c6-a990-f5da79e22504" />
+
 
 
 ## 1. Objetivo
