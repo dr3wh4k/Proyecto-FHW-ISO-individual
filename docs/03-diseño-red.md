@@ -28,7 +28,7 @@ Actúa como router principal de la infraestructura.
 | IP LAN | `192.168.25.1/24` |
 | Interfaz WAN | `ether3` |
 | Función LAN | Puerta de enlace |
-| Servicio DHCP | Activo según configuración indicada |
+| Servicio DHCP | Activo  |
 
 La interfaz `ether3` conecta con la red exterior o red de pruebas.
 
@@ -44,6 +44,7 @@ Actúa como cortafuegos y servidor de comunicaciones.
 | Dirección WAN | `192.168.25.2` |
 | Interfaz LAN | `em1` |
 | Función | Filtrado y segmentación de red |
+| Servicio DHCP | Activo  |
 
 La interfaz WAN se conecta a la red principal del MikroTik.
 
