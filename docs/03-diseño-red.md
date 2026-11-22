@@ -52,7 +52,7 @@ La interfaz LAN se utiliza para crear un segmento interno independiente.
 
 ### Debian NFT
 
-Debian forma parte de los sistemas de comunicaciones del proyecto.
+Debian forma parte de los servidores de comunicaciones del proyecto.
 
 | Parámetro | Configuración |
 |---|---|
@@ -61,7 +61,6 @@ Debian forma parte de los sistemas de comunicaciones del proyecto.
 | Red esperada | `192.168.25.0/24` |
 | Firewall | nftables |
 
-La dirección IP definitiva dependerá de la concesión DHCP del MikroTik.
 
 ### TrueNAS
 
