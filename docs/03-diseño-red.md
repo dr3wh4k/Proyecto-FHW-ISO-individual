@@ -46,7 +46,7 @@ Actúa como cortafuegos y servidor de comunicaciones.
 | Función | Filtrado y segmentación de red |
 | Servicio DHCP | Activo  |
 
-La interfaz WAN se conecta a la red principal del MikroTik.
+La interfaz WAN se conecta a la red principal del aula o de casa.
 
 La interfaz LAN se utiliza para crear un segmento interno independiente.
 
